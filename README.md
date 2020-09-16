@@ -105,7 +105,7 @@ Improving Deep Neuroevolution via Deep Innovation Protection</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(58).pdf" style="text-decoration:none;">Evolutionary Automation of Coordinated Autonomous Vehicles</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(59).pdf" style="text-decoration:none;">The Expense of Neuro-Morpho Functional Machines</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(60).pdf" style="text-decoration:none;">Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(60).pdf" style="text-decoration:none;">Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(61).pdf" style="text-decoration:none;">Improving the Performance of Evolutionary Algorithms via Gradient-Based Initialization</a></li>
  
@@ -118,7 +118,7 @@ of Neuromodulated Controllers for Multi-Stage and Gamified Tasks</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(65).pdf" style="text-decoration:none;">A hybrid neural network and genetic programming approach to the automatic construction of computer vision systems </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(66).pdf" style="text-decoration:none;">Highly Ecient Deep Intelligence via Multi-Parent Evolutionary Synthesis of Deep Neural Networks</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(66).pdf" style="text-decoration:none;">Highly Efficient Deep Intelligence via Multi-Parent Evolutionary Synthesis of Deep Neural Networks</a></li> 
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(67).pdf" style="text-decoration:none;">Culturally Evolved GANs for Generating Fake Stroke Faces</a></li>                              
 
