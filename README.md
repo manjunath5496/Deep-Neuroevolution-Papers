@@ -83,71 +83,72 @@ Improving Deep Neuroevolution via Deep Innovation Protection</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(46).pdf" style="text-decoration:none;">First return then explore</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(47).pdf" style="text-decoration:none;">The price of debiasing automatic metrics in natural language evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(48).pdf" style="text-decoration:none;">"Bilingual Expert" Can Find Translation Errors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(47).pdf" style="text-decoration:none;">A Hybrid Method for Training Convolutional Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(48).pdf" style="text-decoration:none;">Accelerating Deep Neuroevolution on Distributed FPGAs for Reinforcement Learning Problems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(49).pdf" style="text-decoration:none;">Neural Machine Translation of Text from Non-Native Speakers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(49).pdf" style="text-decoration:none;">Novelty Search makes Evolvability Inevitable</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(50).pdf" style="text-decoration:none;">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(51).pdf" style="text-decoration:none;">MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(52).pdf" style="text-decoration:none;">Pre-training on high-resource speech recognition improves low-resource speech-to-text translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(50).pdf" style="text-decoration:none;">Improving Neuroevolution Using Island Extinction and Repopulation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(51).pdf" style="text-decoration:none;">Neuroevolutionary Transfer Learning of Deep Recurrent Neural Networks through Network-Aware Adaptation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(52).pdf" style="text-decoration:none;">Online Hyper-parameter Tuning in Off-policy Learning via Evolutionary Strategies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(53).pdf" style="text-decoration:none;">FRAGE: Frequency-Agnostic Word Representation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(53).pdf" style="text-decoration:none;">Online NEAT for Credit Evaluation - a Dynamic Problem with Sequential Data</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(54).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(54).pdf" style="text-decoration:none;">CoNES: Convex Natural Evolutionary Strategies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(55).pdf" style="text-decoration:none;">Latent Variable Model for Multi-modal Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(55).pdf" style="text-decoration:none;">Analyzing the Components of Distributed Coevolutionary GAN Training</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(56).pdf" style="text-decoration:none;">Addressing Word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(56).pdf" style="text-decoration:none;">CLAN: Continuous Learning using Asynchronous Neuroevolution on Commodity Edge Devices </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(57).pdf" style="text-decoration:none;">Bi-Directional Differentiable Input Reconstruction for Low-Resource Neural Machine Translation </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(57).pdf" style="text-decoration:none;">Epigenetic evolution of deep convolutional models</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(58).pdf" style="text-decoration:none;">Neural Machine Translation with Adequacy-Oriented Learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(59).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(58).pdf" style="text-decoration:none;">Evolutionary Automation of Coordinated Autonomous Vehicles</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(59).pdf" style="text-decoration:none;">The Expense of Neuro-Morpho Functional Machines</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(60).pdf" style="text-decoration:none;">Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(61).pdf" style="text-decoration:none;">Cross-lingual Language Model Pretraining</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(61).pdf" style="text-decoration:none;">Improving the Performance of Evolutionary Algorithms via Gradient-Based Initialization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(62).pdf" style="text-decoration:none;">The Evolved Transformer</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(62).pdf" style="text-decoration:none;">Coevolutionary Learning
+of Neuromodulated Controllers for Multi-Stage and Gamified Tasks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(63).pdf" style="text-decoration:none;">Non-Monotonic Sequential Text Generation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(63).pdf" style="text-decoration:none;">Horizontal gene transfer for recombining graphs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(64).pdf" style="text-decoration:none;">Context-Aware Self-Attention Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(64).pdf" style="text-decoration:none;">Diversity Preservation in Minimal Criterion Coevolution through Resource Limitation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(65).pdf" style="text-decoration:none;">Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(65).pdf" style="text-decoration:none;">A hybrid neural network and genetic programming approach to the automatic construction of computer vision systems </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(66).pdf" style="text-decoration:none;">Saliency Learning: Teaching the Model Where to Pay Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(66).pdf" style="text-decoration:none;">Highly Ecient Deep Intelligence via Multi-Parent Evolutionary Synthesis of Deep Neural Networks</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(67).pdf" style="text-decoration:none;">Star-Transformer</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(67).pdf" style="text-decoration:none;">Culturally Evolved GANs for Generating Fake Stroke Faces</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(68).pdf" style="text-decoration:none;">Cross-Lingual Alignment of ContextualWord Embeddings, with Applications to Zero-shot Dependency Parsing</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(68).pdf" style="text-decoration:none;">Using Deep Neuroevolution to train Deep Reinforcement Learning Agents</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(69).pdf" style="text-decoration:none;">Improving Robustness of Machine Translation with Synthetic Noise</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(69).pdf" style="text-decoration:none;">Neuroevolution with CMA-ES for Real-time Gain Tuning of a Car-like Robot Controller</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(70).pdf" style="text-decoration:none;">Lost in Machine Translation: A Method to Reduce Meaning Loss</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(70).pdf" style="text-decoration:none;">Algebraic Neural Architecture Representation, Evolutionary Neural Architecture Search, and Novelty Search in Deep Reinforcement Learning</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(71).pdf" style="text-decoration:none;">Attention is not Explanation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(71).pdf" style="text-decoration:none;">Procedural Generation of Quests for Games Using Genetic Algorithms and Automated Planning</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(72).pdf" style="text-decoration:none;">Non-Autoregressive Machine Translation with Auxiliary Regularization</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(72).pdf" style="text-decoration:none;">Developmental neuronal networks as models to study the evolution of biological intelligence</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(73).pdf" style="text-decoration:none;">Reinforcement Learning based Curriculum Optimization for Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(74).pdf" style="text-decoration:none;">Non-Parametric Adaptation for Neural Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(75).pdf" style="text-decoration:none;">Massively Multilingual Neural Machine Translation</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(76).pdf" style="text-decoration:none;">Context-Aware Cross-Lingual Mapping</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(73).pdf" style="text-decoration:none;">Automated Neural Network Construction with Similarity Sensitive Evolutionary Algorithms</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(74).pdf" style="text-decoration:none;">Multi-species Evolutionary Algorithms for Complex Optimisation Problems</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(75).pdf" style="text-decoration:none;">Genetic Deep Reinforcement Learning for Mapless Navigation</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(76).pdf" style="text-decoration:none;">Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(77).pdf" style="text-decoration:none;">On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(77).pdf" style="text-decoration:none;">Designing neural networks through neuroevolution</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(78).pdf" style="text-decoration:none;">compare-mt: A Tool for Holistic Comparison of Language Generation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(79).pdf" style="text-decoration:none;">Probing the Need for Visual Context in Multimodal Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(78).pdf" style="text-decoration:none;">The use of Genetic Programming for detecting the incorrect predictions of Classification Models</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(79).pdf" style="text-decoration:none;">Evolutionary Deep Learning</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(80).pdf" style="text-decoration:none;">Selective Attention for Context-aware Neural Machine Translation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(80).pdf" style="text-decoration:none;">Neuro-Evolution Search Methodologies for Collective Self-Driving Vehicles</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(81).pdf" style="text-decoration:none;">Pre-trained Language Model Representations for Language Generation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Neuroevolution-Papers/blob/master/2ne(81).pdf" style="text-decoration:none;">Empirical study on the performance of Neuro Evolution of Augmenting Topologies (NEAT)</a></li>
   </ul>
